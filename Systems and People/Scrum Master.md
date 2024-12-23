@@ -16,5 +16,4 @@
 | Do you track personnel availability? |  |
 | Where did you get the milestones you used in the roadmap? |  |
 | How did people giving you the milestones justify their timing?  |  |
-| Did anyone shorten the schedule after it was completed? |  |
-| Do you work with accounting? |  |
+| Did anyone (including you) shorten the schedule after it was completed? |  |

@@ -18,10 +18,8 @@
 | Who was notified of the risk and the mitigation plan? |  |
 | Was it approved by management? Who? |  |
 | Did management request updates on the mitigation plan? |  |
-| Did management use the project status for updates? |  |
 | Did any risks come up during project meetings? |  |
 | Were risks recorded? |  |
-| Were delays and why they occurred recorded? |  |
+| Were any delays and why they occurred recorded? |  |
 | Were risks that could affect a milestone reported? |  |
 | Was the project meeting told at the milestone that there was an risk? |  |
-| Were delays or time slips written up?  |  |

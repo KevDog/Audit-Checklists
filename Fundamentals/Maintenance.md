@@ -7,6 +7,8 @@
 | Question | Response |
 | --- | --- |
 | Are rollback procedures in place? |  |
+| How many steps does it take to complete a rollback? | |
+| Does a rollback take the database into consideration? | |
 | How is backup conducted? |  |
 | Have backups been tested? |  |
 | Has restore from backup been tested? |  |
