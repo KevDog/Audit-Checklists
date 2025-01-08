@@ -37,3 +37,7 @@
 | Do all components have ARIA attributes?|  |
 | Will the build fail if accessibility isn't complete?|  |
 | What static analysis is performed after check-in?|  |
+| Was the system designed approved by the architecture board? | |
+| Who else needs to sign off on a design? | |
+| Are changes to the design documents made in a timely manner? | |
+| Are design documents under version control? | |
