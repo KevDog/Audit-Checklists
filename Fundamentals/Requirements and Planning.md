@@ -1,21 +1,22 @@
 # Requirements and Planning Analysis
 
 ## Documents We Might Need
-
-- Schedule
-- Personnel Requirements
-- Development plan
-- Quality Requirements
-- Test Plan
-- Configuration Control and Versioning
-- User Stories
-- Upgrade Process
-- CI/CD Pipeline Documentation
-- Product Increment Planning
-- Roadmap
-- Risk Register
-- Decision Log
-- Maintenance Plan
+| Document | Path |
+|-------|----------|
+| Schedule | |
+| Personnel Requirements | |
+| Development plan | |
+| Quality Requirements | |
+| Test Plan | |
+| Configuration Control and Versioning | |
+| User Stories | |
+| Upgrade Process | |
+| CI/CD Pipeline Documentation | |
+| Product Increment Planning | |
+| Roadmap | |
+| Risk Register | |
+| Decision Log | |
+| Maintenance Plan | |
 
 ## Questions We Might Ask
 

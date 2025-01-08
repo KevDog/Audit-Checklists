@@ -2,15 +2,17 @@
 
 ## Documents We Might Want
 
-- Test plan
-- Updated test description
-- Test scripts/cases
-- Test results
-- Acceptance test scripts
-- Jira bug reports
-- Verification checklist or script
-- CI/CD Failures
-- Static analysis reports
+| Document | Path |
+|---|---|
+| Test plan| |
+| Updated test description| |
+| Test scripts/cases| |
+| Test results| |
+| Acceptance test scripts| |
+| Jira bug reports| |
+| Verification checklist or script| |
+| CI/CD Failures| |
+| Static analysis reports| |
 
 ## Questions We Might Ask
 

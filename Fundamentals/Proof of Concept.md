@@ -1,17 +1,18 @@
 # Proof of Concept Analysis
 
 ## Documents We Might Need
-
-- Project Charter
-- Development plan
-- Quality Requirements
-- Test Plan
-- Configuration Control and Versioning
-- User Stories
-- Product Increment Planning
-- Roadmap
-- Risk Register
-- Decision Log
+| Document | Path        |
+|---|-------------------|
+|Project Charter| |
+|Development plan| |
+|Quality Requirements| |
+|Test Plan| |
+|Configuration Control and Versioning| |
+|User Stories| |
+|Product Increment Planning| |
+|Roadmap| |
+|Risk Register| |
+|Decision Log| |
 
 ## Questions We Might Ask
 

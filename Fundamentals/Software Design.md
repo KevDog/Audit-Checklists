@@ -1,12 +1,13 @@
 # Software Design Analysis
 
 ## Documents We Might Need
-
-- Object Diagrams
-- Sequence Diagrams
-- Dataflow Diagrams
-- Acceptance Tests
-- Anything that was an input to the design
+|Document | Path |
+|---|---|
+| Object Diagrams| |
+| Sequence Diagrams| |
+| Dataflow Diagrams| |
+| Acceptance Tests| |
+| Anything that was an input to the design| |
 
 ## Questions We Might Ask
 
