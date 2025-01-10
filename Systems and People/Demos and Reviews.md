@@ -1,5 +1,7 @@
 # Demo and Review Questions
 
+| Question | Response |
+|---|---|
 | Do you give demos? | |
 | How many demos have happened in the last year? | |
 | Was the attendance taken? | |
